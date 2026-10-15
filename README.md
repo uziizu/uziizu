@@ -6,7 +6,8 @@
 
 - [产品原型](./busguard-agent-prototype.html)
 - [产品介绍材料](./docs/BusGuard-Agent-产品介绍材料.md)
-- [可打印介绍材料](./docs/BusGuard-Agent-产品介绍材料.html)
+- [可打印介绍材料 HTML](./docs/BusGuard-Agent-产品介绍材料.html)
+- [产品介绍材料 PDF](./docs/BusGuard-Agent-产品介绍材料.pdf)
 - [市场横向对比](./docs/market-comparison.md)
 - [产品介绍视频预览](./docs/BusGuard-Agent-product-intro-lite.mp4)
 
