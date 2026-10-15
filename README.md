@@ -6,8 +6,11 @@
 
 - [产品原型](./busguard-agent-prototype.html)
 - [产品介绍材料](./docs/BusGuard-Agent-产品介绍材料.md)
+- [可打印介绍材料](./docs/BusGuard-Agent-产品介绍材料.html)
 - [市场横向对比](./docs/market-comparison.md)
-- 产品介绍视频：见本地项目目录 `智能母线健康智能体-BusGuard-Agent-产品介绍视频.mp4`
+- [产品介绍视频预览](./docs/BusGuard-Agent-product-intro-lite.mp4)
+
+完整的 126 秒高清介绍视频保留在项目目录：`智能母线健康智能体-BusGuard-Agent-产品介绍视频.mp4`。
 
 ## 页面结构
 
